@@ -3,7 +3,7 @@
 
 ***
 
-This README summarizes the Human Activity Recognition Using Smartphone (HARUS) experiment and outlines the steps employed by 'run_analysis.R' to produce a tidy dataset from the HARUS datasets: 
+This README summarizes the Human Activity Recognition Using Smartphone (HARUS) experiment and outlines the steps employed by 'run_analysis.R' to produce a tidy dataset from the HARUS datasets.
 
 ***
 
